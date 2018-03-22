@@ -24,6 +24,9 @@ Branches enable me to test out different features in my app without affecting
 the stable version.
 
 How do the diagrams help you visualize the branch structure?
+The diagrams show me exactly where my dev flow branched out along with their
+logical labels, and they show me the commits I could reach from my current
+branch and those I cannot reach.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
