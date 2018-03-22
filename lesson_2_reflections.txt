@@ -18,6 +18,10 @@ files that involve one logical change and commit them.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When I want to test an experimental feature in my working version. When I want to
+create a new language version without disturbing the working version.
+Branches enable me to test out different features in my app without affecting
+the stable version.
 
 How do the diagrams help you visualize the branch structure?
 
