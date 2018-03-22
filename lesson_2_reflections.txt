@@ -13,6 +13,8 @@ with my logical changes before committing.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+The staging area keeps my changes tracked, from which I could pick only those
+files that involve one logical change and commit them.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
