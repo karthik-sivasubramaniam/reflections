@@ -36,3 +36,6 @@ commits for both branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Automatic merging can't always decide which version to keep if both versions
+have the same part of the code modified. Manual merging involves a lot of
+comparing between huge bunches of code.
