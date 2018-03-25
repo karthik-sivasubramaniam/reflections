@@ -30,6 +30,9 @@ branch and those I cannot reach.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging two branches together merged all the changes done in the repository
+files since their last common origin, and also made available all previous
+commits for both branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
