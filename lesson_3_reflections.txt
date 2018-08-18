@@ -25,7 +25,7 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     It allows me to fetch the remote changes to my local repository without
-    actually affecting the master branch. [local]
+    actually affecting the master branch.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
